@@ -22,3 +22,5 @@ test3
 goharma edit
 blinkest:develop:edit1
 blinkesto:develop:edit2
+goharma:my_feature:edit1
+goharma:my_feature:edit2
