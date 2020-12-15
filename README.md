@@ -16,3 +16,4 @@ Change made by Blinkesto
 Conflict made in master
 
 test
+test2
