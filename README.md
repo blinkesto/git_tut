@@ -10,3 +10,5 @@ feature3
 feature4
 
 Change made in master
+
+Change made by Blinkesto
